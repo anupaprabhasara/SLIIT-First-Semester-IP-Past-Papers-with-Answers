@@ -1,0 +1,7 @@
+Sunday   50
+Monday   75
+Tuesday   100
+Wednesday   105
+Thursday   115
+Friday   90
+Saturday   96
